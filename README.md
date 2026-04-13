@@ -1,2 +1,2 @@
-# Dhiren-P-REddy
+# Dhiren-P-Reddy
 This is my first Git Repository.
